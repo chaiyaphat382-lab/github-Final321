@@ -1,5 +1,3 @@
-# github-Final
-Final lab exam
 # My Profile
 ## About me
 - Nickname: Nice
